@@ -64,6 +64,8 @@ end
 
 
 **RESULTS**
+
+
 Thus the program to implement a D flipflop using verilog and validating their functionality using their functional tables.
 
 
